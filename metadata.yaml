@@ -1,0 +1,47 @@
+_repo: Marianna-b-Romaani_75151
+_version: 0.0.1
+alternative_title: Marianna Sirca. Finnish
+contributor:
+  translator:
+    agent_name: Hahl, Jalmari
+    alias: Hahl, J.
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '8054'
+    url: http://www.gutenberg.org/2009/agents/8054
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+creator:
+  author:
+    agent_name: Deledda, Grazia
+    aliases:
+    - Madesani, Grazia Deledda
+    - Deledda, Maria Grazia Cosima
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '33472'
+    url: http://www.gutenberg.org/2009/agents/33472
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Grazia_Deledda
+    - https://en.wikipedia.org/wiki/Grazia_Deledda
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75151'
+language: fi
+pgterms:marc905: 20250101015108deledda
+pgterms:marc906: '1928'
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Sardinia (Italy) -- Fiction'
+- !lcsh 'Romance fiction'
+- !lcsh 'Italian fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: 'Marianna : $b Romaani'
+url: http://www.gutenberg.org/ebooks/75151
